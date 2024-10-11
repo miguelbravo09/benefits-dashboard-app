@@ -52,3 +52,5 @@ Tools Used: [e.g., Postman, cURL]
 ## **Logs**
 Provide any relevant logs or error messages.
 
+## **Additional Context**
+Add any other context about the problem here.
